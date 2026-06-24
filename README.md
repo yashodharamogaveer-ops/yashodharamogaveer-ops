@@ -1,4 +1,3 @@
-![Banner](banner.png)
 
 # 👋 Hello, I'm Yashodhara
 
