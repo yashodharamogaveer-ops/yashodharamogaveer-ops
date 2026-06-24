@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 👋 Hello, I'm Yashodhara
 
 ### BCA Student • Aspiring Software Developer • Problem Solver
